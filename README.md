@@ -13,3 +13,10 @@
 - Non-Linear Regression
   - Non-Linear Regression
   - Polynomial Regression
+  
+### Week 3
+- Classification
+  - K-Nearest Neighbours (KNN)
+  - Decision Trees
+  - Logistic Regression
+  - Support Vector Machine (SVM)
