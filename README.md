@@ -8,8 +8,8 @@
 
 ### Week 2
 - Linear Regression
-1. Simple Linear Regression
-2. Multiple Linear Regression
+  - Simple Linear Regression
+  - Multiple Linear Regression
 - Non-Linear Regression
-1. Non-Linear Regression
-2. Polynomial Regression
+  - Non-Linear Regression
+  - Polynomial Regression
